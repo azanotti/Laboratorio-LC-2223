@@ -1,0 +1,4 @@
+Studente:{
+    "nome": "Alessandro Zanotti",
+    "matricola": 0
+};

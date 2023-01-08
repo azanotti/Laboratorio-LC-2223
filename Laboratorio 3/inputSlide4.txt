@@ -1,0 +1,9 @@
+global: {
+  num thread: 4
+  config: /etc/conf.ini
+};
+
+host: {
+  ip: 10.0.0.1
+  name: Pluto
+};
